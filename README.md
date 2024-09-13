@@ -11,9 +11,7 @@
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [AWS Services](#aws-services)
-- [Application Structure](#application-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Architecture
 
@@ -45,10 +43,5 @@ The architecture replicates an on-premise environment by utilizing key AWS servi
 - Java 8 or higher (if using a Java-based application)
 - Maven or other build tool
 
-### Steps to Deploy
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/aws-lift-and-shift.git
-   cd aws-lift-and-shift
 
